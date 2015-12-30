@@ -1,2 +1,0 @@
-repository initial name: origin
-SunnY@git
